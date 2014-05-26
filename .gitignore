@@ -1,0 +1,9 @@
+node_modules
+dist
+bundle*.js
+preloader.js
+eproject.cfg
+*~
+*.zip
+*.gz
+
